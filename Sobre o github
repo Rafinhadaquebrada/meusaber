@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <title>Utilização do GitHub</title>
+
+        <style type="text/css">
+                @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+                *{
+                        margin: 0;
+                        padding: 0;
+                        font-family: 'Roboto', sans-serif;
+                }
+                div{
+                        width: 50%;
+                        margin: auto;
+                }
+                h1{
+                        text-align: center;
+                }
+                .perguntas{
+                        font-size: 15pt;
+                        font-weight: bolder;
+                }
+        </style>
+       
+</head>
+<body>
+        <div>
+                <br><br><br>
+                <h1>Utilização do GitHub (pelo site)</h1>
+               
+                <br><br>
+
+                <p class="perguntas">O que é o Github?</p>
+                <p class="respostas">O Github é um sistema de versionamento de arquivos".</p>
+
+                <br><br>
+
+                <p class="perguntas">O que são repositórios e como cria-los?</p>
+                <p class="respostas">Repositórios são pastas para gerenciar um arquivo. Eles podem ser criados ou clonados, basta clicar no botão + que se encontra no canto superior direito da tela. Você pode criar repositórios tanto públicos como privados, os próprios nomes ja dizem à respeito, público pode ser encontrado por qualquer pessoa e privado apenas pelas pessoas autorizadas por você.</p>
+
+                <br><br>
+
+                <p class="perguntas">O que são commits e como usa-los?</p>
+                <p class="respostas">Commits são alterações feitas em um repositório, contendo o nome do autor, descrição e o arquivo que foi modificado. Para fazer um commit, é necessário acessar o repositório desejado e clicar em "create new file", em seguida crie ou faça' as alterações necessárias e finalize clicando em "commit new file"</p>
+        </div>
+</body>
+</html>
